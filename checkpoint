@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/saurabhshah/PycharmProjects/tensorEnv/chatBot_model"
+all_model_checkpoint_paths: "/Users/saurabhshah/PycharmProjects/tensorEnv/chatBot_model"
